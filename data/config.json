@@ -1,0 +1,31 @@
+{"ons":{
+"maptitle": "Health index",
+"varcolour": "YlGnBu",
+"varlabels": ["Healthy People","Healthy Lives","Healthy Places"],
+"sublabels":[
+  [["1_1", "Difficulties in daily life"],["1_2", "Mental health"],["1_3", "Mortality"],["1_4", "Personal wellbeing"],["1_5", "Physical health conditions"]],
+  [["2_1", "Behavioural risk factors"],["2_2", "Children and young people"],["2_3", "Physiological risk factors"],["2_4", "Protective measures"]],
+  [["3_1", "Access to green space"],["3_2", "Access to services"],["3_3", "Crime"],["3_4", "Economic and working conditions"],["3_5", "Living conditions"]]
+],
+"timeload": "last",
+"timepoints": ["2015","2016","2017","2018","2019"],
+"varunit": ["Index score"],
+"displaydecimals": 1,
+"legenddecimals": 0,
+"breaks": "equal",
+"dropticks": true,
+"numberBreaks": 5,
+"sourcetext": "Office for National Statistics",
+"chartLabels": ["1", "2", "3"],
+"timelineLabelsDT":["2015","2016","2017","2018","2019"],
+"average": [["102", "103","101"], ["101", "102","100"], ["103", "101","100"], ["103", "101","100"], ["103", "101","100"]],
+"averageText":"England average",
+"nullcolour":"#dadada",
+"keyHeight": 250,
+"keyMargin": {
+  "top": 110,
+  "right": 37,
+  "left": 60,
+  "bottom": 10
+}
+}}
